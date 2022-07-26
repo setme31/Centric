@@ -1,0 +1,9 @@
+{
+	"name": "8451-POC-GIT",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fd8adcc6-0b54-4c58-9292-93b5d4472769",
+		"tenantId": "d6f8cc30-debb-41a6-9c78-0516c185fa0d"
+	}
+}
